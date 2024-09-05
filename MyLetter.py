@@ -1,0 +1,33 @@
+# Inserção de dados...
+
+print ("Data de Hoje: ")
+Date = input ()
+print (" Nome da empresa: ")
+Enterprise = input ()
+print ("Nome do gestor ou responsavel pelo RH: ")
+RH = input ()
+print ("Qual e o titulo do seu posto? ")
+TitleCarg = input ()
+print ("Qual seria o seu cargo atual na empresa? ")
+Carg = input ()
+print ("Data do inicio do aviso previo: ")
+Start =  input ()
+print ("Data do termino do aviso previo: ")
+Stop = input ()
+print ("Sua assinatura: ")
+Ass = input ()
+print ("Digite seu nome completo: ")
+Name = input ()
+
+# Empressão da carta de demissão
+
+print (Date)
+print (RH)
+print (Carg)
+print (Enterprise)
+print ("Prezado(a)", RH)
+print ("Por favor, aceite essa carta como notificação da demição de ", TitleCarg, "na ", Enterprise)
+print ("Como o termo do meu contrato de serviço, eu continuarei a trabalhar na empresa de: ", Start, "sendo ", Stop, "o ultimo dia de trabalho como funcionario na", Enterprise, ".")
+print ("Atenciosamente")
+print (Ass)
+print (Name)
