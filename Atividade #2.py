@@ -2,6 +2,5 @@
 
 X = int(input("Digite um número: "))
 
-Total = X*X*X
-
-print ("O resultado de", X, "ao cubo e de: ", Total)
+Quad = X*X
+print ("O resultado de", X, " ao quadrado é: ", Quad)
