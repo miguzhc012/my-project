@@ -14,4 +14,7 @@ print ("O resultado da multiplicação é:", Multiplicação)
 Divisão = X / Y 
 print ("O resultado da divisão é:", Divisão)
 
+Quad = X **2
+print (f"O resultado de {X} ao quadrado é {Quad}")
+
 print ("Ok!")

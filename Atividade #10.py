@@ -1,3 +1,5 @@
+# Qual e o seu time favorito...
+
 print ("Digite um número para caso você seja pra um desses 3: ")
 print ("1. Sou Carioca ")
 print ("2. Sou Paulista ")

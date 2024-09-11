@@ -27,4 +27,6 @@ match Op:
     case 5:
         print (f"De K {K}° para C {C3}°.")
     case 6:
-        print (f"De K {K}° para F {F3}°.")                 
+        print (f"De K {K}° para F {F3}°.")
+    case _:
+        print ("Valor digitado incorreto!")                     

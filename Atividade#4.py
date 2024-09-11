@@ -1,7 +1,7 @@
-# Inserção dos números...
+# Calculo do cubo...
 
 X = int(input("Digite um número: "))
 
-Total = X*X*X
+Total = X**3
 
-print ("O resultado de", X, "ao cubo e de: ", Total)
+print ("O valor de", X, "ao cubo e de: ", Total)
