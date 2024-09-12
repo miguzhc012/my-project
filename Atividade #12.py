@@ -1,4 +1,5 @@
 # Verificação para ver um eclipse...
+
 print ("Vamos ver se você consegue ver o eclipse!")
 print ("Qual e a sua localização? 1. Rio de Janeiro / 2. Espirito Santo / 3. São Paulo / 4. Minas Gerais / 5. Outras Localizações ")
 Loc = int(input())

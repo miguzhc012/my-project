@@ -4,7 +4,7 @@ Y = int(input("Digite outro número: "))
 Z = int(input("Digite mais um número: "))
 
 if X > Y and Y > Z and Z < X:
-    print ("Está em ordem descrescente!")
+    print ("Está em ordem decrescente!")
 elif X < Y and Y < Z and Z > X:
     print ("Está em ordem crescente!")
 else:
