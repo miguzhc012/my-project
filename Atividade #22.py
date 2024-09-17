@@ -1,3 +1,5 @@
+#Juros compostos...
+
 Valor = float(input("Digite o valor do produto desejado: "))
 Taxa = float (input("Digite o quanto de taxa: "))
 Ot = int (input("Digite quantas parcelas?: "))

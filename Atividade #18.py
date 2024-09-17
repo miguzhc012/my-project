@@ -1,4 +1,5 @@
 # Tabuada...
+
 S = int (input("Digite o valor maximo: "))
 N= int(input("Digite o numero que deseja multiplicar: "))
 N2 = 1
