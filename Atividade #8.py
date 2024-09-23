@@ -1,7 +1,7 @@
 # Calculo do IMC...
-
+print ("Vamos descubrir seu IMC! ")
 Peso = float(input("Digite seu peso: "))
-Altura = float(input("Digite sua altura: "))
+Altura = float(input("Agora digite sua altura: "))
 
 IMC = Peso/(Altura**2)
 

@@ -1,5 +1,5 @@
 # Função de um jogador no campo...
-
+print ("Vamos ver qual e a posição de um jogador de futebol? ")
 Nome = input ("Digite o nome do jogador: ")
 Func = input (f"Digite a função do(a) {Nome} no campo: ")
 

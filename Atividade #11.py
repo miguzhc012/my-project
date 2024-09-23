@@ -1,5 +1,5 @@
 # Tabela do brasileirão...
-
+print ("Vamos descubrir se o seu time está em qual classificação na serie A")
 Time = input ("Digite o nome do time do campeonato brasileiro: ")
 Class = int(input ("Agora digite a classificação desse time: "))
 

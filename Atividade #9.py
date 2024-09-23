@@ -1,5 +1,5 @@
 # Convertor de temperaturas 2.0...
-
+print ("Que tal converter a temperatura de C° para F°")
 C = float(input("Digite uma temperatura: "))
 F = C*1.8+32
 K = C + 273.15

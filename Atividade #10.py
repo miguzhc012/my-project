@@ -16,7 +16,7 @@ if Local == 1:
     Rj = int(input())
     match Rj:
         case 1:
-            print ("Então seu time favorito é o Flamengo😎")
+            print ("Então seu time favorito é o Flamengo😎 ")
         case 2:
             print ("Então seu time favorito é Botafogo🥵 ")
         case 3:

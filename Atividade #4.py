@@ -1,6 +1,6 @@
 # Calculo do cubo...
 
-X = int(input("Digite um número: "))
+X = int(input("Digite um número para descubrir qual e o cubo desse número: "))
 
 Total = X**3
 
