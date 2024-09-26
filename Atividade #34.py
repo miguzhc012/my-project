@@ -1,7 +1,15 @@
+# Calculo do gasto de combustivel de um veiculo
+# Iniciando o codigo
+# Declarando as Variaveis e Funções
 def Calculo (x,y):
-    Val = Dist / ConsuL
-    print (f"Foram gastos {Val}L de combustivel")
-# Coletando dados
+    try:
+        Val = Dist / ConsuL
+    except ZeroDivisionError:
+        print ("Verifique o valor inserido!")
+    else:
+        print (f"Foram gastos {Val}L de combustivel")
+# Fazendo a coleta de dados
+# Iniciando Bloco de repetição
 while True:
     try:
         while True:
@@ -21,3 +29,6 @@ while True:
     else:
         Calculo (ConsuL,Dist)
         break
+# Fim do Bloco de repetição
+# Fim do codigo
+
